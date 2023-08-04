@@ -134,7 +134,7 @@ Creating personalised profiles in Armoury crate is also recommended. Here are my
 ![image](https://github.com/Oganir/ROG-ALLY-Debloat-Optimization-/assets/141415073/b629669a-9333-49b8-889c-af4de94c9506)
 ![image](https://github.com/Oganir/ROG-ALLY-Debloat-Optimization-/assets/141415073/b3ae0018-9848-444b-99f2-da364e1d6cae)
 
-Your ROG is de-optimized and will not be slowed down by Windows.
+Your ROG is optimized and will not be slowed down by Windows.
 
 
 

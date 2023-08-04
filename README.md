@@ -94,7 +94,7 @@ You can then activate it via windows settings, set them as below.
 
 Then you have to install Armoury Crate. Simply press the button on your Rog Ally to launch it, a window opens, you can download and install it.
 
-Our Base is messy and functional.
+Our Base is ready and functional.
 I also recommend using Chris’s tool to complete our optimization.
 
 https://github.com/ChrisTitusTech/winutil

@@ -23,7 +23,7 @@ We will now use the following command to backup all drivers.
 Launch the Windows terminal with administrator rights and paste this line:
 
 
-dism/online/export-driver/destination:"C: drivers"
+dism/online/export-driver/destination:"C:\drivers"
 
 Now let’s create a bootable USB drive
 using the windows 11 lean verson "GhostSpectre Superlite SE"

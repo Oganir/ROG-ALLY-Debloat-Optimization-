@@ -74,7 +74,7 @@ We now need to import all the essential drivers for the ROG-Ally.
 To do this, copy and paste the drivers folder of your usb drive to the root of your C: 
 Open Powershell as administrator and paste the following command line:
 
-pnputil/add-driver "C: drivers *. inf" /subdirs/install/reboot
+pnputil /add-driver "C:\drivers\*.inf" /subdirs/install/reboot
 
 Let powershell do its magic and restart your ROG-ALLY
 
